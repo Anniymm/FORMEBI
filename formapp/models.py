@@ -19,3 +19,4 @@ class Product(models.Model):
 
 # 1 - forms.Form -> Regular forms -> ar aris dakavshirebuli modelebtan - not db
 # 2 - forms.ModelForm -> Model_Based FOrm -> dakavshirebulia modeltan  -> db
+
